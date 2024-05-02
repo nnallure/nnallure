@@ -1,7 +1,4 @@
-nnallure2003 / README.md
-
 # Nikitha Nallure
-
 
 Business Analytics and Information Systems student at the University of Iowa - Tippie School of Business, graduating in May 2024. I'm passionate about using data analytics to drive business strategy and improve operational efficiency.
 
