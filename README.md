@@ -1,6 +1,6 @@
 # Nikitha Nallure
 
-Business Analytics and Information Systems student at the University of Iowa - Tippie School of Business, graduating in May 2024. I'm passionate about using data analytics to drive business strategy and improve operational efficiency.
+Applied Analytics master's student at Columbia, graduating in December 2025. Former Business Analytics and Information Systems student at the University of Iowa's, Tippie School of Business. I'm passionate about using data analytics to drive business strategy and improve operational efficiency.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikithanallure/)
