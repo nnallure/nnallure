@@ -3,7 +3,6 @@
 Business Analytics and Information Systems student at the University of Iowa - Tippie School of Business, graduating in May 2024. I'm passionate about using data analytics to drive business strategy and improve operational efficiency.
 
 
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:niki.nallure@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikithanallure/)
 
 ### Skills
