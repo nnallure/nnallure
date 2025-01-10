@@ -19,8 +19,3 @@ Business Analytics and Information Systems student at the University of Iowa - T
 
 - **National Center for Women & Information Technology:** Iowa Aspirations in Computing Award Winner (2020 & 2021).
 - **National Collegiate Sports Analytics Championship:** Top 10 Ranking (2024).
-
-### Work Experience Highlights
-
-- **Principal Financial Group:** Developed key PowerBI dashboards as a Data Analyst Intern.
-- **Wellmark Blue Cross and Blue Shield:** Enhanced data accuracy and decision-making through comprehensive data analytics as a Data Analytics & Governance Intern.
